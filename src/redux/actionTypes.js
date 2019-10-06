@@ -1,0 +1,4 @@
+export const SET_ACTIVE = 'SET_ACTIVE';
+export const UPDATE_ACTIVE = 'UPDATE_ACTIVE';
+export const WS_CONNECTED = 'WS_CONNECTED';
+export const WS_DISCONNECTED = 'WS_DISCONNECTED';

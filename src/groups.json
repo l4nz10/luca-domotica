@@ -1,0 +1,1401 @@
+{
+  "0/0/1": {
+    "groupName": "Lighting Lights ON/OFF",
+    "description": "Striscia led angolo divano",
+    "datapoint": "1.001",
+    "address": "0/0/1"
+  },
+  "0/0/2": {
+    "groupName": "Lighting Lights ON/OFF",
+    "description": "Striscia led tavolo",
+    "datapoint": "1.001",
+    "address": "0/0/2",
+    "status": true
+  },
+  "0/0/3": {
+    "groupName": "Lighting Lights ON/OFF",
+    "description": "Lampadario Tavolo",
+    "datapoint": "1.001",
+    "address": "0/0/3",
+    "status": false
+  },
+  "0/0/4": {
+    "groupName": "Lighting Lights ON/OFF",
+    "description": "Lapadario Cucina",
+    "datapoint": "1.001",
+    "address": "0/0/4"
+  },
+  "0/0/5": {
+    "groupName": "Lighting Lights ON/OFF",
+    "description": "Faretti Cucina",
+    "datapoint": "1.001",
+    "address": "0/0/5"
+  },
+  "0/0/6": {
+    "groupName": "Lighting Lights ON/OFF",
+    "description": "Studio Valeria",
+    "datapoint": "1.001",
+    "address": "0/0/6"
+  },
+  "0/0/7": {
+    "groupName": "Lighting Lights ON/OFF",
+    "description": "Lavanderia",
+    "datapoint": "1.001",
+    "address": "0/0/7"
+  },
+  "0/0/8": {
+    "groupName": "Lighting Lights ON/OFF",
+    "description": "Faretti Ingresso 1",
+    "datapoint": "1.001",
+    "address": "0/0/8"
+  },
+  "0/0/9": {
+    "groupName": "Lighting Lights ON/OFF",
+    "description": "Faretti Ingresso 2",
+    "datapoint": "1.001",
+    "address": "0/0/9"
+  },
+  "0/0/10": {
+    "groupName": "Lighting Lights ON/OFF",
+    "description": "Faretti Notte Lavanderia",
+    "datapoint": "1.001",
+    "address": "0/0/10"
+  },
+  "0/0/11": {
+    "groupName": "Lighting Lights ON/OFF",
+    "description": "Faretti Notte camere",
+    "datapoint": "1.001",
+    "address": "0/0/11"
+  },
+  "0/0/12": {
+    "groupName": "Lighting Lights ON/OFF",
+    "description": "Bagno con Doccia",
+    "datapoint": "1.001",
+    "address": "0/0/12"
+  },
+  "0/0/13": {
+    "groupName": "Lighting Lights ON/OFF",
+    "description": "Bagno con Vasca",
+    "datapoint": "1.001",
+    "address": "0/0/13"
+  },
+  "0/0/14": {
+    "groupName": "Lighting Lights ON/OFF",
+    "description": "Camera Ovest",
+    "datapoint": "1.001",
+    "address": "0/0/14"
+  },
+  "0/0/15": {
+    "groupName": "Lighting Lights ON/OFF",
+    "description": "Cabina Armadio",
+    "datapoint": "1.001",
+    "address": "0/0/15"
+  },
+  "0/0/16": {
+    "groupName": "Lighting Lights ON/OFF",
+    "description": "Camera Sud",
+    "datapoint": "1.001",
+    "address": "0/0/16"
+  },
+  "0/0/17": {
+    "groupName": "Lighting Lights ON/OFF",
+    "description": "Camera Est",
+    "datapoint": "1.001",
+    "address": "0/0/17"
+  },
+  "0/0/18": {
+    "groupName": "Lighting Lights ON/OFF",
+    "description": "Studio Luca",
+    "datapoint": "1.001",
+    "address": "0/0/18",
+    "status": false
+  },
+  "0/0/19": {
+    "groupName": "Lighting Lights ON/OFF",
+    "description": "Luce Lavanderia",
+    "address": "0/0/19"
+  },
+  "0/0/20": {
+    "groupName": "Lighting Lights ON/OFF",
+    "description": "Luce Balcone Lavanderia DX",
+    "address": "0/0/20"
+  },
+  "0/0/21": {
+    "groupName": "Lighting Lights ON/OFF",
+    "description": "Luce Balcone Lavanderia SX",
+    "address": "0/0/21"
+  },
+  "0/0/22": {
+    "groupName": "Lighting Lights ON/OFF",
+    "description": "Luce Balcone Camera Sud",
+    "datapoint": "1.001",
+    "address": "0/0/22",
+    "status": false
+  },
+  "0/0/23": {
+    "groupName": "Lighting Lights ON/OFF",
+    "description": "Luce Balcone Cucina",
+    "address": "0/0/23"
+  },
+  "0/0/24": {
+    "groupName": "Lighting Lights ON/OFF",
+    "description": "Luci ingresso",
+    "datapoint": "1.001",
+    "address": "0/0/24"
+  },
+  "0/0/25": {
+    "groupName": "Lighting Lights ON/OFF",
+    "description": "Luca zona notte",
+    "datapoint": "1.001",
+    "address": "0/0/25"
+  },
+  "0/0/26": {
+    "groupName": "Lighting Lights ON/OFF",
+    "description": "Luci zona giorno",
+    "datapoint": "1.001",
+    "address": "0/0/26"
+  },
+  "0/0/27": {
+    "groupName": "Lighting Lights ON/OFF",
+    "description": "Luci casa",
+    "datapoint": "1.001",
+    "address": "0/0/27"
+  },
+  "0/1/1": {
+    "groupName": "Lighting Status",
+    "description": "Striscia led angolo divano",
+    "datapoint": "1.001",
+    "address": "0/1/1",
+    "status": false
+  },
+  "0/1/2": {
+    "groupName": "Lighting Status",
+    "description": "Striscia led tavolo",
+    "datapoint": "1.001",
+    "address": "0/1/2",
+    "status": true
+  },
+  "0/1/3": {
+    "groupName": "Lighting Status",
+    "description": "Lampadario Tavolo",
+    "datapoint": "1.001",
+    "address": "0/1/3",
+    "status": false
+  },
+  "0/1/4": {
+    "groupName": "Lighting Status",
+    "description": "Lapadario Cucina",
+    "datapoint": "1.001",
+    "address": "0/1/4",
+    "status": false
+  },
+  "0/1/5": {
+    "groupName": "Lighting Status",
+    "description": "Faretti Cucina",
+    "datapoint": "1.001",
+    "address": "0/1/5",
+    "status": false
+  },
+  "0/1/6": {
+    "groupName": "Lighting Status",
+    "description": "Studio Valeria",
+    "datapoint": "1.001",
+    "address": "0/1/6",
+    "status": false
+  },
+  "0/1/7": {
+    "groupName": "Lighting Status",
+    "description": "Lavanderia",
+    "datapoint": "1.001",
+    "address": "0/1/7",
+    "status": false
+  },
+  "0/1/8": {
+    "groupName": "Lighting Status",
+    "description": "Faretti Ingresso 1",
+    "datapoint": "1.001",
+    "address": "0/1/8",
+    "status": false
+  },
+  "0/1/9": {
+    "groupName": "Lighting Status",
+    "description": "Faretti Ingresso 2",
+    "datapoint": "1.001",
+    "address": "0/1/9",
+    "status": false
+  },
+  "0/1/10": {
+    "groupName": "Lighting Status",
+    "description": "Faretti Notte Lavanderia",
+    "datapoint": "1.001",
+    "address": "0/1/10",
+    "status": false
+  },
+  "0/1/11": {
+    "groupName": "Lighting Status",
+    "description": "Faretti Notte camere",
+    "datapoint": "1.001",
+    "address": "0/1/11",
+    "status": false
+  },
+  "0/1/12": {
+    "groupName": "Lighting Status",
+    "description": "Bagno con Doccia",
+    "datapoint": "1.001",
+    "address": "0/1/12",
+    "status": false
+  },
+  "0/1/13": {
+    "groupName": "Lighting Status",
+    "description": "Bagno con Vasca",
+    "datapoint": "1.001",
+    "address": "0/1/13",
+    "status": false
+  },
+  "0/1/14": {
+    "groupName": "Lighting Status",
+    "description": "Camera Ovest",
+    "datapoint": "1.001",
+    "address": "0/1/14",
+    "status": false
+  },
+  "0/1/15": {
+    "groupName": "Lighting Status",
+    "description": "Cabina Armadio",
+    "datapoint": "1.001",
+    "address": "0/1/15",
+    "status": false
+  },
+  "0/1/16": {
+    "groupName": "Lighting Status",
+    "description": "Camera Sud",
+    "datapoint": "1.001",
+    "address": "0/1/16",
+    "status": false
+  },
+  "0/1/17": {
+    "groupName": "Lighting Status",
+    "description": "Camera Est",
+    "datapoint": "1.001",
+    "address": "0/1/17",
+    "status": false
+  },
+  "0/1/18": {
+    "groupName": "Lighting Status",
+    "description": "Studio Luca",
+    "datapoint": "1.001",
+    "address": "0/1/18",
+    "status": false
+  },
+  "0/1/19": {
+    "groupName": "Lighting Status",
+    "description": "Luce Lavanderia",
+    "address": "0/1/19"
+  },
+  "0/1/20": {
+    "groupName": "Lighting Status",
+    "description": "Luce Balcone Lavanderia DX",
+    "address": "0/1/20"
+  },
+  "0/1/21": {
+    "groupName": "Lighting Status",
+    "description": "Luce Balcone Lavanderia SX",
+    "address": "0/1/21"
+  },
+  "0/1/22": {
+    "groupName": "Lighting Status",
+    "description": "Luce Balcone Camera Sud",
+    "datapoint": "1.001",
+    "address": "0/1/22"
+  },
+  "0/1/23": {
+    "groupName": "Lighting Status",
+    "description": "Luce Balcone Cucina",
+    "address": "0/1/23"
+  },
+  "0/1/24": {
+    "groupName": "Lighting Status",
+    "description": "Luci ingresso",
+    "datapoint": "1.001",
+    "address": "0/1/24"
+  },
+  "0/1/25": {
+    "groupName": "Lighting Status",
+    "description": "Luca zona notte",
+    "datapoint": "1.001",
+    "address": "0/1/25"
+  },
+  "0/1/26": {
+    "groupName": "Lighting Status",
+    "description": "Luci zona giorno",
+    "datapoint": "1.001",
+    "address": "0/1/26"
+  },
+  "0/2/1": {
+    "groupName": "Lighting Switch's led",
+    "description": "Striscia led angolo divano",
+    "datapoint": "1.001",
+    "address": "0/2/1"
+  },
+  "0/2/2": {
+    "groupName": "Lighting Switch's led",
+    "description": "Striscia led tavolo",
+    "datapoint": "1.001",
+    "address": "0/2/2"
+  },
+  "0/2/3": {
+    "groupName": "Lighting Switch's led",
+    "description": "Lampadario Tavolo",
+    "datapoint": "1.001",
+    "address": "0/2/3"
+  },
+  "0/2/4": {
+    "groupName": "Lighting Switch's led",
+    "description": "Lapadario Cucina",
+    "datapoint": "1.001",
+    "address": "0/2/4"
+  },
+  "0/2/5": {
+    "groupName": "Lighting Switch's led",
+    "description": "Faretti Cucina",
+    "datapoint": "1.001",
+    "address": "0/2/5"
+  },
+  "0/2/6": {
+    "groupName": "Lighting Switch's led",
+    "description": "Studio Valeria",
+    "datapoint": "1.001",
+    "address": "0/2/6"
+  },
+  "0/2/7": {
+    "groupName": "Lighting Switch's led",
+    "description": "Lavanderia",
+    "datapoint": "1.001",
+    "address": "0/2/7"
+  },
+  "0/2/8": {
+    "groupName": "Lighting Switch's led",
+    "description": "Faretti Ingresso 1",
+    "datapoint": "1.001",
+    "address": "0/2/8"
+  },
+  "0/2/9": {
+    "groupName": "Lighting Switch's led",
+    "description": "Faretti Ingresso 2",
+    "datapoint": "1.001",
+    "address": "0/2/9"
+  },
+  "0/2/10": {
+    "groupName": "Lighting Switch's led",
+    "description": "Faretti Notte Lavanderia",
+    "datapoint": "1.001",
+    "address": "0/2/10"
+  },
+  "0/2/11": {
+    "groupName": "Lighting Switch's led",
+    "description": "Faretti Notte camere",
+    "datapoint": "1.001",
+    "address": "0/2/11"
+  },
+  "0/2/12": {
+    "groupName": "Lighting Switch's led",
+    "description": "Bagno con Doccia",
+    "datapoint": "1.001",
+    "address": "0/2/12"
+  },
+  "0/2/13": {
+    "groupName": "Lighting Switch's led",
+    "description": "Bagno con Vasca",
+    "datapoint": "1.001",
+    "address": "0/2/13"
+  },
+  "0/2/14": {
+    "groupName": "Lighting Switch's led",
+    "description": "Camera Ovest",
+    "datapoint": "1.001",
+    "address": "0/2/14"
+  },
+  "0/2/15": {
+    "groupName": "Lighting Switch's led",
+    "description": "Cabina Armadio",
+    "datapoint": "1.001",
+    "address": "0/2/15"
+  },
+  "0/2/16": {
+    "groupName": "Lighting Switch's led",
+    "description": "Camera Sud",
+    "datapoint": "1.001",
+    "address": "0/2/16"
+  },
+  "0/2/17": {
+    "groupName": "Lighting Switch's led",
+    "description": "Camera Est",
+    "datapoint": "1.001",
+    "address": "0/2/17"
+  },
+  "0/2/18": {
+    "groupName": "Lighting Switch's led",
+    "description": "Studio Luca",
+    "datapoint": "1.001",
+    "address": "0/2/18"
+  },
+  "0/2/19": {
+    "groupName": "Lighting Switch's led",
+    "description": "Luce Lavanderia",
+    "address": "0/2/19"
+  },
+  "0/2/20": {
+    "groupName": "Lighting Switch's led",
+    "description": "Luce Balcone Lavanderia DX",
+    "address": "0/2/20"
+  },
+  "0/2/21": {
+    "groupName": "Lighting Switch's led",
+    "description": "Luce Balcone Lavanderia SX",
+    "address": "0/2/21"
+  },
+  "0/2/22": {
+    "groupName": "Lighting Switch's led",
+    "description": "Luce Balcone Camera Sud",
+    "datapoint": "1.001",
+    "address": "0/2/22"
+  },
+  "0/2/23": {
+    "groupName": "Lighting Switch's led",
+    "description": "Luce Balcone Cucina",
+    "address": "0/2/23"
+  },
+  "0/2/24": {
+    "groupName": "Lighting Switch's led",
+    "description": "Luci ingresso",
+    "datapoint": "1.001",
+    "address": "0/2/24"
+  },
+  "0/2/25": {
+    "groupName": "Lighting Switch's led",
+    "description": "Luca zona notte",
+    "datapoint": "1.001",
+    "address": "0/2/25"
+  },
+  "0/2/26": {
+    "groupName": "Lighting Switch's led",
+    "description": "Luci zona giorno",
+    "datapoint": "1.001",
+    "address": "0/2/26"
+  },
+  "0/2/27": {
+    "groupName": "Lighting Switch's led",
+    "description": "Luci casa",
+    "datapoint": "1.001",
+    "address": "0/2/27"
+  },
+  "1/0/0": {
+    "groupName": "Blinds Blinds up/down",
+    "description": "Lavanderia",
+    "datapoint": "1.008",
+    "address": "1/0/0"
+  },
+  "1/0/10": {
+    "groupName": "Blinds Blinds up/down",
+    "description": "Bagno Doccia",
+    "datapoint": "1.008",
+    "address": "1/0/10"
+  },
+  "1/0/20": {
+    "groupName": "Blinds Blinds up/down",
+    "description": "Bagno Vasca",
+    "datapoint": "1.008",
+    "address": "1/0/20"
+  },
+  "1/0/30": {
+    "groupName": "Blinds Blinds up/down",
+    "description": "Camera Ovest",
+    "datapoint": "1.008",
+    "address": "1/0/30"
+  },
+  "1/0/40": {
+    "groupName": "Blinds Blinds up/down",
+    "description": "Camera Sud",
+    "datapoint": "1.008",
+    "address": "1/0/40",
+    "status": false
+  },
+  "1/0/50": {
+    "groupName": "Blinds Blinds up/down",
+    "description": "Camera Est",
+    "datapoint": "1.008",
+    "address": "1/0/50",
+    "status": false
+  },
+  "1/0/60": {
+    "groupName": "Blinds Blinds up/down",
+    "description": "Studio Luca",
+    "datapoint": "1.008",
+    "address": "1/0/60"
+  },
+  "1/0/71": {
+    "groupName": "Blinds Blinds up/down",
+    "description": "Soggiorno 1",
+    "datapoint": "1.008",
+    "address": "1/0/71"
+  },
+  "1/0/72": {
+    "groupName": "Blinds Blinds up/down",
+    "description": "Soggiorno 2",
+    "datapoint": "1.008",
+    "address": "1/0/72"
+  },
+  "1/0/73": {
+    "groupName": "Blinds Blinds up/down",
+    "description": "Soggiorno 3",
+    "datapoint": "1.008",
+    "address": "1/0/73"
+  },
+  "1/0/81": {
+    "groupName": "Blinds Blinds up/down",
+    "description": "Cucina 1",
+    "datapoint": "1.008",
+    "address": "1/0/81"
+  },
+  "1/0/82": {
+    "groupName": "Blinds Blinds up/down",
+    "description": "Cucina 2",
+    "datapoint": "1.008",
+    "address": "1/0/82"
+  },
+  "1/0/90": {
+    "groupName": "Blinds Blinds up/down",
+    "description": "Studio Valeria",
+    "datapoint": "1.008",
+    "address": "1/0/90"
+  },
+  "1/0/70": {
+    "groupName": "Blinds Blinds up/down",
+    "description": "Soggiorno",
+    "datapoint": "1.008",
+    "address": "1/0/70",
+    "status": false
+  },
+  "1/1/0": {
+    "groupName": "Blinds Blind stop",
+    "description": "Lavanderia",
+    "datapoint": "1.007",
+    "address": "1/1/0"
+  },
+  "1/1/10": {
+    "groupName": "Blinds Blind stop",
+    "description": "Bagno Doccia",
+    "datapoint": "1.007",
+    "address": "1/1/10"
+  },
+  "1/1/20": {
+    "groupName": "Blinds Blind stop",
+    "description": "Bagno Vasca",
+    "datapoint": "1.007",
+    "address": "1/1/20"
+  },
+  "1/1/30": {
+    "groupName": "Blinds Blind stop",
+    "description": "Camera Ovest",
+    "datapoint": "1.007",
+    "address": "1/1/30"
+  },
+  "1/1/40": {
+    "groupName": "Blinds Blind stop",
+    "description": "Camera Sud",
+    "datapoint": "1.007",
+    "address": "1/1/40"
+  },
+  "1/1/50": {
+    "groupName": "Blinds Blind stop",
+    "description": "Camera Est",
+    "datapoint": "1.007",
+    "address": "1/1/50"
+  },
+  "1/1/60": {
+    "groupName": "Blinds Blind stop",
+    "description": "Studio Luca",
+    "datapoint": "1.007",
+    "address": "1/1/60"
+  },
+  "1/1/71": {
+    "groupName": "Blinds Blind stop",
+    "description": "Soggiorno 1",
+    "datapoint": "1.007",
+    "address": "1/1/71"
+  },
+  "1/1/72": {
+    "groupName": "Blinds Blind stop",
+    "description": "Soggiorno 2",
+    "datapoint": "1.007",
+    "address": "1/1/72"
+  },
+  "1/1/73": {
+    "groupName": "Blinds Blind stop",
+    "description": "Soggiorno 3",
+    "datapoint": "1.007",
+    "address": "1/1/73"
+  },
+  "1/1/81": {
+    "groupName": "Blinds Blind stop",
+    "description": "Cucina 1",
+    "datapoint": "1.007",
+    "address": "1/1/81"
+  },
+  "1/1/82": {
+    "groupName": "Blinds Blind stop",
+    "description": "Cucina 2",
+    "datapoint": "1.007",
+    "address": "1/1/82"
+  },
+  "1/1/90": {
+    "groupName": "Blinds Blind stop",
+    "description": "Studio Valeria",
+    "datapoint": "1.007",
+    "address": "1/1/90"
+  },
+  "1/1/70": {
+    "groupName": "Blinds Blind stop",
+    "description": "Soggiorno",
+    "datapoint": "1.007",
+    "address": "1/1/70"
+  },
+  "1/2/0": {
+    "groupName": "Blinds movement info",
+    "description": "Lavanderia",
+    "datapoint": "1.007",
+    "address": "1/2/0"
+  },
+  "1/2/10": {
+    "groupName": "Blinds movement info",
+    "description": "Bagno Doccia",
+    "datapoint": "1.007",
+    "address": "1/2/10"
+  },
+  "1/2/20": {
+    "groupName": "Blinds movement info",
+    "description": "Bagno Vasca",
+    "datapoint": "1.007",
+    "address": "1/2/20"
+  },
+  "1/2/30": {
+    "groupName": "Blinds movement info",
+    "description": "Camera Ovest",
+    "datapoint": "1.007",
+    "address": "1/2/30"
+  },
+  "1/2/40": {
+    "groupName": "Blinds movement info",
+    "description": "Camera Sud",
+    "datapoint": "1.007",
+    "address": "1/2/40",
+    "status": false
+  },
+  "1/2/50": {
+    "groupName": "Blinds movement info",
+    "description": "Camera Est",
+    "datapoint": "1.007",
+    "address": "1/2/50",
+    "status": false
+  },
+  "1/2/60": {
+    "groupName": "Blinds movement info",
+    "description": "Studio Luca",
+    "datapoint": "1.007",
+    "address": "1/2/60"
+  },
+  "1/2/70": {
+    "groupName": "Blinds movement info",
+    "description": "Soggiorno",
+    "datapoint": "1.007",
+    "address": "1/2/70"
+  },
+  "1/2/71": {
+    "groupName": "Blinds movement info",
+    "description": "Soggiorno 1",
+    "datapoint": "1.007",
+    "address": "1/2/71",
+    "status": false
+  },
+  "1/2/72": {
+    "groupName": "Blinds movement info",
+    "description": "Soggiorno 2",
+    "datapoint": "1.007",
+    "address": "1/2/72",
+    "status": false
+  },
+  "1/2/73": {
+    "groupName": "Blinds movement info",
+    "description": "Soggiorno 3",
+    "datapoint": "1.007",
+    "address": "1/2/73",
+    "status": false
+  },
+  "1/2/81": {
+    "groupName": "Blinds movement info",
+    "description": "Cucina 1",
+    "datapoint": "1.007",
+    "address": "1/2/81"
+  },
+  "1/2/82": {
+    "groupName": "Blinds movement info",
+    "description": "Cucina 2",
+    "datapoint": "1.007",
+    "address": "1/2/82"
+  },
+  "1/2/90": {
+    "groupName": "Blinds movement info",
+    "description": "Studio Valeria",
+    "datapoint": "1.007",
+    "address": "1/2/90"
+  },
+  "1/3/0": {
+    "groupName": "Blinds feedback absolute position",
+    "description": "Lavanderia",
+    "datapoint": "5.001",
+    "address": "1/3/0"
+  },
+  "1/3/10": {
+    "groupName": "Blinds feedback absolute position",
+    "description": "Bagno Doccia",
+    "datapoint": "5.001",
+    "address": "1/3/10"
+  },
+  "1/3/20": {
+    "groupName": "Blinds feedback absolute position",
+    "description": "Bagno Vasca",
+    "datapoint": "5.001",
+    "address": "1/3/20"
+  },
+  "1/3/30": {
+    "groupName": "Blinds feedback absolute position",
+    "description": "Camera Ovest",
+    "datapoint": "5.001",
+    "address": "1/3/30"
+  },
+  "1/3/40": {
+    "groupName": "Blinds feedback absolute position",
+    "description": "Camera Sud",
+    "datapoint": "5.001",
+    "address": "1/3/40",
+    "status": 0
+  },
+  "1/3/50": {
+    "groupName": "Blinds feedback absolute position",
+    "description": "Camera Est",
+    "datapoint": "5.001",
+    "address": "1/3/50",
+    "status": 0
+  },
+  "1/3/60": {
+    "groupName": "Blinds feedback absolute position",
+    "description": "Studio Luca",
+    "datapoint": "5.001",
+    "address": "1/3/60"
+  },
+  "1/3/70": {
+    "groupName": "Blinds feedback absolute position",
+    "description": "Soggiorno",
+    "datapoint": "5.001",
+    "address": "1/3/70"
+  },
+  "1/3/71": {
+    "groupName": "Blinds feedback absolute position",
+    "description": "Soggiorno 1",
+    "datapoint": "5.001",
+    "address": "1/3/71",
+    "status": 0
+  },
+  "1/3/72": {
+    "groupName": "Blinds feedback absolute position",
+    "description": "Soggiorno 2",
+    "datapoint": "5.001",
+    "address": "1/3/72",
+    "status": 0
+  },
+  "1/3/73": {
+    "groupName": "Blinds feedback absolute position",
+    "description": "Soggiorno 3",
+    "datapoint": "5.001",
+    "address": "1/3/73",
+    "status": 0
+  },
+  "1/3/81": {
+    "groupName": "Blinds feedback absolute position",
+    "description": "Cucina 1",
+    "datapoint": "5.001",
+    "address": "1/3/81"
+  },
+  "1/3/82": {
+    "groupName": "Blinds feedback absolute position",
+    "description": "Cucina 2",
+    "datapoint": "5.001",
+    "address": "1/3/82"
+  },
+  "1/3/90": {
+    "groupName": "Blinds feedback absolute position",
+    "description": "Studio Valeria",
+    "datapoint": "5.001",
+    "address": "1/3/90"
+  },
+  "2/0/70": {
+    "groupName": "Heating/Cooling Valve Open/Close",
+    "description": "Sala",
+    "datapoint": "1.001",
+    "address": "2/0/70",
+    "status": false
+  },
+  "2/0/80": {
+    "groupName": "Heating/Cooling Valve Open/Close",
+    "description": "Cucina",
+    "datapoint": "1.001",
+    "address": "2/0/80",
+    "status": false
+  },
+  "2/0/90": {
+    "groupName": "Heating/Cooling Valve Open/Close",
+    "description": "Studio Valeria",
+    "datapoint": "1.001",
+    "address": "2/0/90",
+    "status": false
+  },
+  "2/0/0": {
+    "groupName": "Heating/Cooling Valve Open/Close",
+    "description": "Lavanderia",
+    "datapoint": "1.001",
+    "address": "2/0/0",
+    "status": false
+  },
+  "2/0/10": {
+    "groupName": "Heating/Cooling Valve Open/Close",
+    "description": "Bagno Doccia",
+    "datapoint": "1.001",
+    "address": "2/0/10",
+    "status": false
+  },
+  "2/0/20": {
+    "groupName": "Heating/Cooling Valve Open/Close",
+    "description": "Bagno Vasca",
+    "datapoint": "1.001",
+    "address": "2/0/20",
+    "status": false
+  },
+  "2/0/30": {
+    "groupName": "Heating/Cooling Valve Open/Close",
+    "description": "Camera 4 Ovest",
+    "datapoint": "1.001",
+    "address": "2/0/30",
+    "status": false
+  },
+  "2/0/40": {
+    "groupName": "Heating/Cooling Valve Open/Close",
+    "description": "Camera 6 Sud",
+    "datapoint": "1.001",
+    "address": "2/0/40",
+    "status": false
+  },
+  "2/0/50": {
+    "groupName": "Heating/Cooling Valve Open/Close",
+    "description": "Camera 9 Est",
+    "datapoint": "1.001",
+    "address": "2/0/50",
+    "status": false
+  },
+  "2/0/60": {
+    "groupName": "Heating/Cooling Valve Open/Close",
+    "description": "Studio Luca 11",
+    "datapoint": "1.001",
+    "address": "2/0/60",
+    "status": false
+  },
+  "2/0/100": {
+    "groupName": "Heating/Cooling Valve Open/Close",
+    "description": "Virtual_Valve_1",
+    "datapoint": "1.001",
+    "address": "2/0/100",
+    "status": false
+  },
+  "2/0/101": {
+    "groupName": "Heating/Cooling Valve Open/Close",
+    "description": "Virtual_Valve_2",
+    "datapoint": "1.001",
+    "address": "2/0/101",
+    "status": false
+  },
+  "2/1/0": {
+    "groupName": "Heating/Cooling Heat Pump",
+    "description": "C1 start stop",
+    "datapoint": "1.010",
+    "address": "2/1/0"
+  },
+  "2/1/1": {
+    "groupName": "Heating/Cooling Heat Pump",
+    "description": "Request ON/OFF",
+    "datapoint": "1.010",
+    "address": "2/1/1",
+    "status": false
+  },
+  "2/1/2": {
+    "groupName": "Heating/Cooling Heat Pump",
+    "description": "C1 start stop status",
+    "datapoint": "1.010",
+    "address": "2/1/2"
+  },
+  "2/1/10": {
+    "groupName": "Heating/Cooling Heat Pump",
+    "description": "Water heat C1",
+    "datapoint": "9.001",
+    "address": "2/1/10"
+  },
+  "2/2/0": {
+    "groupName": "Heating/Cooling Heat Pump Status",
+    "description": "C1 Status",
+    "datapoint": "1.001",
+    "address": "2/2/0"
+  },
+  "2/2/1": {
+    "groupName": "Heating/Cooling Heat Pump Status",
+    "description": "Cooling",
+    "datapoint": "1.002",
+    "address": "2/2/1"
+  },
+  "2/2/2": {
+    "groupName": "Heating/Cooling Heat Pump Status",
+    "description": "Outdoor Temperature",
+    "datapoint": "9.001",
+    "address": "2/2/2",
+    "status": 24
+  },
+  "2/2/3": {
+    "groupName": "Heating/Cooling Heat Pump Status",
+    "description": "Water Temperature",
+    "datapoint": "9.001",
+    "address": "2/2/3",
+    "status": 31
+  },
+  "2/2/4": {
+    "groupName": "Heating/Cooling Heat Pump Status",
+    "description": "Heating",
+    "datapoint": "1.100",
+    "address": "2/2/4"
+  },
+  "2/2/5": {
+    "groupName": "Heating/Cooling Heat Pump Status",
+    "description": "Cool/Heat",
+    "datapoint": "1.100",
+    "address": "2/2/5"
+  },
+  "2/2/6": {
+    "groupName": "Heating/Cooling Heat Pump Status",
+    "description": "water flow",
+    "datapoint": "13.002",
+    "address": "2/2/6",
+    "status": 0
+  },
+  "2/2/7": {
+    "groupName": "Heating/Cooling Heat Pump Status",
+    "description": "KNX Menu",
+    "datapoint": "1.003",
+    "address": "2/2/7"
+  },
+  "2/2/8": {
+    "groupName": "Heating/Cooling Heat Pump Status",
+    "description": "ACS temp",
+    "datapoint": "9.001",
+    "address": "2/2/8",
+    "status": 51
+  },
+  "2/2/9": {
+    "groupName": "Heating/Cooling Heat Pump Status",
+    "description": "Antileg",
+    "datapoint": "1.010",
+    "address": "2/2/9"
+  },
+  "2/2/10": {
+    "groupName": "Heating/Cooling Heat Pump Status",
+    "description": "Water heat C1",
+    "datapoint": "9.001",
+    "address": "2/2/10"
+  },
+  "2/5/0": {
+    "groupName": "Heating/Cooling Deumidification",
+    "description": "Deumidification Day zone",
+    "datapoint": "1.001",
+    "address": "2/5/0"
+  },
+  "2/5/1": {
+    "groupName": "Heating/Cooling Deumidification",
+    "description": "Deumidification Night zone",
+    "datapoint": "1.001",
+    "address": "2/5/1"
+  },
+  "2/5/2": {
+    "groupName": "Heating/Cooling Deumidification",
+    "description": "Deumidificator Day Zone",
+    "datapoint": "1.001",
+    "address": "2/5/2",
+    "status": false
+  },
+  "2/5/3": {
+    "groupName": "Heating/Cooling Deumidification",
+    "description": "Deumidificator Night zone",
+    "datapoint": "1.001",
+    "address": "2/5/3",
+    "status": false
+  },
+  "3/0/0": {
+    "groupName": "General Plugs ON/OFF",
+    "description": "Presa comandata Ovest",
+    "datapoint": "1.001",
+    "address": "3/0/0"
+  },
+  "3/0/1": {
+    "groupName": "General Plugs ON/OFF",
+    "description": "Presa comandata Est",
+    "datapoint": "1.001",
+    "address": "3/0/1"
+  },
+  "3/0/2": {
+    "groupName": "General Plugs ON/OFF",
+    "description": "Presa comandata Nord",
+    "datapoint": "1.001",
+    "address": "3/0/2"
+  },
+  "3/1/1": {
+    "groupName": "General Energy",
+    "description": "Wh",
+    "datapoint": "29.010",
+    "address": "3/1/1"
+  },
+  "3/1/0": {
+    "groupName": "General Energy",
+    "description": "hitachi",
+    "datapoint": "13.013",
+    "address": "3/1/0",
+    "status": 127
+  },
+  "4/0/0": {
+    "groupName": "Lighting Feedbacks Lights feedback",
+    "description": "Striscia led angolo divano",
+    "datapoint": "1.001",
+    "address": "4/0/0"
+  },
+  "4/0/1": {
+    "groupName": "Lighting Feedbacks Lights feedback",
+    "description": "Striscia led tavolo",
+    "address": "4/0/1"
+  },
+  "4/0/2": {
+    "groupName": "Lighting Feedbacks Lights feedback",
+    "description": "Lampadario Tavolo",
+    "address": "4/0/2"
+  },
+  "5/0/0": {
+    "groupName": "Blinds Feedbacks Open window",
+    "description": "Lavanderia",
+    "datapoint": "1.001",
+    "address": "5/0/0",
+    "status": true
+  },
+  "5/0/10": {
+    "groupName": "Blinds Feedbacks Open window",
+    "description": "Bagno Doccia",
+    "datapoint": "1.001",
+    "address": "5/0/10",
+    "status": false
+  },
+  "5/0/20": {
+    "groupName": "Blinds Feedbacks Open window",
+    "description": "Bagno Vasca",
+    "datapoint": "1.001",
+    "address": "5/0/20",
+    "status": true
+  },
+  "5/0/30": {
+    "groupName": "Blinds Feedbacks Open window",
+    "description": "Camera Ovest",
+    "datapoint": "1.001",
+    "address": "5/0/30",
+    "status": false
+  },
+  "5/0/40": {
+    "groupName": "Blinds Feedbacks Open window",
+    "description": "Camera Sud",
+    "datapoint": "1.001",
+    "address": "5/0/40",
+    "status": true
+  },
+  "5/0/50": {
+    "groupName": "Blinds Feedbacks Open window",
+    "description": "Camera Est",
+    "datapoint": "1.001",
+    "address": "5/0/50",
+    "status": false
+  },
+  "5/0/60": {
+    "groupName": "Blinds Feedbacks Open window",
+    "description": "Studio Luca",
+    "datapoint": "1.001",
+    "address": "5/0/60",
+    "status": false
+  },
+  "5/0/70": {
+    "groupName": "Blinds Feedbacks Open window",
+    "description": "Soggiorno",
+    "datapoint": "1.001",
+    "address": "5/0/70",
+    "status": false
+  },
+  "5/0/80": {
+    "groupName": "Blinds Feedbacks Open window",
+    "description": "Cucina",
+    "datapoint": "1.001",
+    "address": "5/0/80",
+    "status": false
+  },
+  "5/0/90": {
+    "groupName": "Blinds Feedbacks Open window",
+    "description": "Studio Valeria",
+    "datapoint": "1.001",
+    "address": "5/0/90",
+    "status": false
+  },
+  "5/0/100": {
+    "groupName": "Blinds Feedbacks Open window",
+    "description": "Night Ovest",
+    "datapoint": "1.001",
+    "address": "5/0/100",
+    "status": true
+  },
+  "5/0/101": {
+    "groupName": "Blinds Feedbacks Open window",
+    "description": "Night Est",
+    "datapoint": "1.001",
+    "address": "5/0/101",
+    "status": true
+  },
+  "5/0/102": {
+    "groupName": "Blinds Feedbacks Open window",
+    "description": "Day zone",
+    "datapoint": "1.001",
+    "address": "5/0/102",
+    "status": true
+  },
+  "6/0/0": {
+    "groupName": "Heating/Cooling Feedbacks Heating/Cooling Pompa di calore",
+    "description": "Pompa di Calore",
+    "datapoint": "1.002",
+    "address": "6/0/0"
+  },
+  "6/3/0": {
+    "groupName": "Heating/Cooling Feedbacks Temperature feedback",
+    "description": "Lavanderia",
+    "datapoint": "9.001",
+    "address": "6/3/0",
+    "status": 25.72
+  },
+  "6/3/10": {
+    "groupName": "Heating/Cooling Feedbacks Temperature feedback",
+    "description": "Bagno Doccia",
+    "datapoint": "9.001",
+    "address": "6/3/10",
+    "status": 24.64
+  },
+  "6/3/20": {
+    "groupName": "Heating/Cooling Feedbacks Temperature feedback",
+    "description": "Bagno Vasca",
+    "datapoint": "9.001",
+    "address": "6/3/20",
+    "status": 24.12
+  },
+  "6/3/30": {
+    "groupName": "Heating/Cooling Feedbacks Temperature feedback",
+    "description": "Camera 4 Ovest",
+    "datapoint": "9.001",
+    "address": "6/3/30",
+    "status": 23.96
+  },
+  "6/3/40": {
+    "groupName": "Heating/Cooling Feedbacks Temperature feedback",
+    "description": "Camera 6 Sud",
+    "datapoint": "9.001",
+    "address": "6/3/40",
+    "status": 25.32
+  },
+  "6/3/50": {
+    "groupName": "Heating/Cooling Feedbacks Temperature feedback",
+    "description": "Camera 9 Est",
+    "datapoint": "9.001",
+    "address": "6/3/50",
+    "status": 25.2
+  },
+  "6/3/60": {
+    "groupName": "Heating/Cooling Feedbacks Temperature feedback",
+    "description": "Studio Luca 11",
+    "datapoint": "9.001",
+    "address": "6/3/60",
+    "status": 24.6
+  },
+  "6/3/70": {
+    "groupName": "Heating/Cooling Feedbacks Temperature feedback",
+    "description": "Sala",
+    "datapoint": "9.001",
+    "address": "6/3/70",
+    "status": 24.68
+  },
+  "6/3/80": {
+    "groupName": "Heating/Cooling Feedbacks Temperature feedback",
+    "description": "Cucina",
+    "datapoint": "9.001",
+    "address": "6/3/80",
+    "status": 24.54
+  },
+  "6/3/90": {
+    "groupName": "Heating/Cooling Feedbacks Temperature feedback",
+    "description": "Studio Valeria",
+    "datapoint": "9.001",
+    "address": "6/3/90",
+    "status": 24.46
+  },
+  "6/4/0": {
+    "groupName": "Heating/Cooling Feedbacks Rooms setpoints ",
+    "description": "Lavanderia",
+    "datapoint": "9.001",
+    "address": "6/4/0",
+    "status": 7
+  },
+  "6/4/1": {
+    "groupName": "Heating/Cooling Feedbacks Rooms setpoints ",
+    "description": "Bagno Doccia",
+    "datapoint": "9.001",
+    "address": "6/4/1",
+    "status": 21
+  },
+  "6/4/2": {
+    "groupName": "Heating/Cooling Feedbacks Rooms setpoints ",
+    "description": "Bagno Vasca",
+    "datapoint": "9.001",
+    "address": "6/4/2",
+    "status": 21
+  },
+  "6/4/3": {
+    "groupName": "Heating/Cooling Feedbacks Rooms setpoints ",
+    "description": "Camera 4 Ovest",
+    "datapoint": "9.001",
+    "address": "6/4/3",
+    "status": 21
+  },
+  "6/4/4": {
+    "groupName": "Heating/Cooling Feedbacks Rooms setpoints ",
+    "description": "Camera 6 Sud",
+    "datapoint": "9.001",
+    "address": "6/4/4",
+    "status": 7
+  },
+  "6/4/5": {
+    "groupName": "Heating/Cooling Feedbacks Rooms setpoints ",
+    "description": "Camera 9 Est",
+    "datapoint": "9.001",
+    "address": "6/4/5",
+    "status": 21
+  },
+  "6/4/6": {
+    "groupName": "Heating/Cooling Feedbacks Rooms setpoints ",
+    "description": "Studio Luca 11",
+    "datapoint": "9.001",
+    "address": "6/4/6",
+    "status": 21
+  },
+  "6/4/7": {
+    "groupName": "Heating/Cooling Feedbacks Rooms setpoints ",
+    "description": "Sala",
+    "datapoint": "9.001",
+    "address": "6/4/7",
+    "status": 21
+  },
+  "6/4/8": {
+    "groupName": "Heating/Cooling Feedbacks Rooms setpoints ",
+    "description": "Cucina",
+    "datapoint": "9.001",
+    "address": "6/4/8",
+    "status": 21
+  },
+  "6/4/9": {
+    "groupName": "Heating/Cooling Feedbacks Rooms setpoints ",
+    "description": "Studio Valeria",
+    "datapoint": "9.001",
+    "address": "6/4/9",
+    "status": 21
+  },
+  "6/1/0": {
+    "groupName": "Heating/Cooling Feedbacks Humidity feedback",
+    "description": "Lavanderia",
+    "datapoint": "9.007",
+    "address": "6/1/0",
+    "status": 63.32
+  },
+  "6/1/1": {
+    "groupName": "Heating/Cooling Feedbacks Humidity feedback",
+    "description": "Bagno Doccia",
+    "datapoint": "9.007",
+    "address": "6/1/1",
+    "status": 63.2
+  },
+  "6/1/2": {
+    "groupName": "Heating/Cooling Feedbacks Humidity feedback",
+    "description": "Bagno Vasca",
+    "datapoint": "9.007",
+    "address": "6/1/2",
+    "status": 62.2
+  },
+  "6/1/3": {
+    "groupName": "Heating/Cooling Feedbacks Humidity feedback",
+    "description": "Camera 4 Ovest",
+    "datapoint": "9.007",
+    "address": "6/1/3",
+    "status": 58.08
+  },
+  "6/1/4": {
+    "groupName": "Heating/Cooling Feedbacks Humidity feedback",
+    "description": "Camera 6 Sud",
+    "datapoint": "9.007",
+    "address": "6/1/4",
+    "status": 60.160000000000004
+  },
+  "6/1/5": {
+    "groupName": "Heating/Cooling Feedbacks Humidity feedback",
+    "description": "Camera 9 Est",
+    "datapoint": "9.007",
+    "address": "6/1/5",
+    "status": 60
+  },
+  "6/1/6": {
+    "groupName": "Heating/Cooling Feedbacks Humidity feedback",
+    "description": "Studio Luca 11",
+    "datapoint": "9.007",
+    "address": "6/1/6",
+    "status": 59.88
+  },
+  "6/1/7": {
+    "groupName": "Heating/Cooling Feedbacks Humidity feedback",
+    "description": "Sala",
+    "datapoint": "9.007",
+    "address": "6/1/7",
+    "status": 62.08
+  },
+  "6/1/8": {
+    "groupName": "Heating/Cooling Feedbacks Humidity feedback",
+    "description": "Cucina",
+    "datapoint": "9.007",
+    "address": "6/1/8",
+    "status": 61.84
+  },
+  "6/1/9": {
+    "groupName": "Heating/Cooling Feedbacks Humidity feedback",
+    "description": "Studio Valeria",
+    "datapoint": "9.007",
+    "address": "6/1/9",
+    "status": 62.2
+  },
+  "2/2/11": { "status": { "type": "Buffer", "data": [15, 8] } }
+}
